@@ -3,7 +3,7 @@ const SelectDropDown = ({ selectedLanguage, setShowModal, style}) => {
         <div className="select-drop-down">
             <input value={selectedLanguage} onClick={() => setShowModal(style)}/>
             <div className="down-arrow">
-            ↓
+                ⌄
             </div>
         </div>
     )
