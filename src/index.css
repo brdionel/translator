@@ -159,6 +159,7 @@ textarea {
   position: relative;
   left: 256px;
   top: -175px;
+  color: #bdc1c6;
 }
 
 .input .delete:hover {
